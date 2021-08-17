@@ -1,0 +1,16 @@
+C:\SummerLessons\Lesson4App\Lesson4ConsoleApp\bin\Debug\net5.0\Lesson4ConsoleApp.exe
+C:\SummerLessons\Lesson4App\Lesson4ConsoleApp\bin\Debug\net5.0\Lesson4ConsoleApp.deps.json
+C:\SummerLessons\Lesson4App\Lesson4ConsoleApp\bin\Debug\net5.0\Lesson4ConsoleApp.runtimeconfig.json
+C:\SummerLessons\Lesson4App\Lesson4ConsoleApp\bin\Debug\net5.0\Lesson4ConsoleApp.runtimeconfig.dev.json
+C:\SummerLessons\Lesson4App\Lesson4ConsoleApp\bin\Debug\net5.0\Lesson4ConsoleApp.dll
+C:\SummerLessons\Lesson4App\Lesson4ConsoleApp\bin\Debug\net5.0\ref\Lesson4ConsoleApp.dll
+C:\SummerLessons\Lesson4App\Lesson4ConsoleApp\bin\Debug\net5.0\Lesson4ConsoleApp.pdb
+C:\SummerLessons\Lesson4App\Lesson4ConsoleApp\obj\Debug\net5.0\Lesson4ConsoleApp.csproj.AssemblyReference.cache
+C:\SummerLessons\Lesson4App\Lesson4ConsoleApp\obj\Debug\net5.0\Lesson4ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\SummerLessons\Lesson4App\Lesson4ConsoleApp\obj\Debug\net5.0\Lesson4ConsoleApp.AssemblyInfoInputs.cache
+C:\SummerLessons\Lesson4App\Lesson4ConsoleApp\obj\Debug\net5.0\Lesson4ConsoleApp.AssemblyInfo.cs
+C:\SummerLessons\Lesson4App\Lesson4ConsoleApp\obj\Debug\net5.0\Lesson4ConsoleApp.csproj.CoreCompileInputs.cache
+C:\SummerLessons\Lesson4App\Lesson4ConsoleApp\obj\Debug\net5.0\Lesson4ConsoleApp.dll
+C:\SummerLessons\Lesson4App\Lesson4ConsoleApp\obj\Debug\net5.0\ref\Lesson4ConsoleApp.dll
+C:\SummerLessons\Lesson4App\Lesson4ConsoleApp\obj\Debug\net5.0\Lesson4ConsoleApp.pdb
+C:\SummerLessons\Lesson4App\Lesson4ConsoleApp\obj\Debug\net5.0\Lesson4ConsoleApp.genruntimeconfig.cache
